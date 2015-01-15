@@ -1,4 +1,4 @@
-NodeJS Example
+NodeJS  / Spark Core Example
 =================================
 Node application blinks the LEDs of the Spark Core internet button.  
 
@@ -10,6 +10,7 @@ Setup:
 
 Run locally:
 	node lib/blink.js
+
 Run in Amazon Lambda:
 
 Run in Docker:
