@@ -1,0 +1,13 @@
+{
+  "name": "blink",
+  "version": "0.0.1",
+  "description": "spark blink function",
+  "author": "Ricardo DeMatos @rdematos",
+  "main": "lib/blink.js",
+  "dependencies": {
+    "request": "*"
+  },
+  "preferGlobal": true,
+  "private": true
+}
+

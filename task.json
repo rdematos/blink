@@ -1,0 +1,14 @@
+[
+  {
+    "environment": [],
+    "name": "blink",
+    "image": "rdematos/node-blink:latest",
+    "cpu": 10,
+    "portMappings": [],
+    "entryPoint": [
+      "node", "/blink/lib/blink.js"
+    ],
+    "memory": 100,
+    "essential": true
+  }
+]
